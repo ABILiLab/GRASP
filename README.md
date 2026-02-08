@@ -41,10 +41,7 @@ For **CPU-only** PyTorch, use the `+cpu` wheel index instead (e.g. `torch-2.0.0+
 
 ### Reference files (LinearFold & DACC)
 
-All tools needed for feature extraction are under **`reference/`**:
-
-- **`reference/linearfold_v`** — LinearFold executable for secondary structure prediction. If present, it is used by default (no need to set `--linearfold_cwd`).
-- **`reference/ilearn/`** — DACC (iLearn) modules and data: `descnucleotide/`, `pubscripts/`, `data/dirnaPhyche.data`. Used by default for DACC; override with `--ilearn_dir` if needed.
+All tools needed for feature extraction are under **`reference/`**.
 
 ### Quick Start
 
@@ -53,8 +50,6 @@ After cloning or entering the project directory, use `run_train.py` for training
 ---
 
 ## Training
-
-Training uses **data_hetero** (heterogeneous graph dataset) and **model_hetero** (RNAHeteroModel). Three feature types are used: **Kmer**, **DACC**, and **LinearFold**. Feature files are named by the **FASTA base name + feature type** (e.g. for `lncRNA_6k_8loc.fasta`: `lncRNA_6k_8loc_linearfold.pkl`, `lncRNA_6k_8loc_5mer.pkl`, `lncRNA_6k_8loc_dacc.pkl`). They are cached under `--feature_dir` and reloaded in later runs. Cached graphs are stored under `--data_prepared_root` with names like `{base_name}_hetero_fold_{fold_idx}_{data_version}`. The **tokenizer** and **mlb_classes** are saved under `{checkpoint_folder}/{rna_type}/` for prediction.
 
 ```bash
 # lncRNA model (default)
@@ -77,7 +72,7 @@ python run_train.py \
 
 ```text
 >seq_id|nucleus,cytoplasm
-AUGCCUAG...
+ATGCCTAG...
 ```
 
 **Main arguments:**
@@ -108,8 +103,6 @@ After training, the best model is saved as `model_best_auc_*.pth` and also as **
 ---
 
 ## Prediction
-
-Prediction uses **data_hetero** and **model_hetero** (same as training). It accepts **unlabeled FASTA only** (headers can be `>id` or `>id|...`; labels are ignored). Specify **`--rna_type`** (lncRNA or mRNA) to load the correct checkpoint from `{checkpoint_folder}/{rna_type}/`. The script loads **tokenizer.pkl** and **mlb_classes** for the output CSV. Feature files are looked up by input FASTA base name (e.g. `lncRNA_test_linearfold.pkl` for `lncRNA_test.fasta`). When `--model_path` is not set, it loads **`model_4lncRNA.pth`** or **`model_4mRNA.pth`** in that folder. **After prediction, the generated feature files for this input (linearfold, kmer, dacc pkl) are deleted** to avoid leaving temporary files.
 
 ```bash
 # lncRNA (default)
@@ -150,41 +143,6 @@ python run_predict.py \
 | `--data_version` | Suffix for cached graph dataset (must match training if reusing) | `hetero_v1` |
 
 The output CSV has header `Type, Seq_ID, label1, label2, ...` and for each sample a **Prob** row (probabilities) and a **Binary** row (0/1 predictions).
-
----
-
-## Features
-
-- **Kmer**: k-mer frequency (default k=5), normalized and used as sequence features.
-- **DACC**: Dinucleotide auto- and cross-covariance; implementation uses the iLearn-style DACC (RNA: 6 physicochemical indices, lag=2). Required files are under `reference/ilearn/` (see above).
-- **LinearFold**: Predicts RNA secondary structure (dot-bracket) and is used to build the heterogeneous graph (base–loop–stem and pairing/adjacency relations). The executable is `reference/linearfold_v`.
-
----
-
-## Directory structure
-
-```text
-GRASP_Github/
-├── run_train.py       # Training entry (data_hetero + model_hetero; Kmer, DACC, LinearFold)
-├── run_predict.py     # Prediction entry (unlabeled FASTA; deletes generated features after run)
-├── run_hetero.py      # Reference script (same hetero config, hardcoded paths)
-├── data_hetero.py     # Heterogeneous graph dataset (RNAHeteroGraphDataset, hetero_collate_func)
-├── model_hetero.py    # RNAHeteroModel, train_valid, valid_step, AsymmetricLoss
-├── data_2.py          # SequenceTokenizer (used by data_hetero and run_predict)
-├── utils.py           # FASTA I/O, Kmer, LinearFold, DACC, split_dataset_ensure_label, etc.
-├── metrics.py         # Multi-label evaluation metrics
-├── environment.yml    # Conda environment
-├── reference/         # LinearFold and DACC (iLearn) — used by default
-│   ├── linearfold_v   # LinearFold executable
-│   └── ilearn/        # DACC: descnucleotide, pubscripts, data/
-├── data/              # Example FASTA (e.g. lncRNA_6k_8loc.fasta, mRNA_24k_8loc.fasta)
-├── features/          # Feature cache (linearfold/kmer/dacc pkl; prediction removes its own after run)
-├── data_prepared/     # Cached heterogeneous graphs (processed/*.pt)
-├── model_saved/       # Checkpoints per rna_type
-│   ├── lncRNA/        # tokenizer.pkl, mlb_classes.txt, model_4lncRNA.pth, model_best_auc_*.pth
-│   └── mRNA/          # tokenizer.pkl, mlb_classes.txt, model_4mRNA.pth, model_best_auc_*.pth
-└── results/           # Prediction output CSV (optional)
-```
 
 ---
 
