@@ -1,0 +1,25 @@
+
+name: grasp
+
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.8.18
+  - pytorch=2.0.1
+  - pytorch-cuda=11.7
+  - torchvision=0.15.2
+  - torchaudio=2.0.2
+  - networkx=3.1
+  - pip
+  - pip:
+    - numpy==1.23.5
+    - pandas==1.5.3
+    - scipy==1.10.1
+    - scikit-learn==1.2.2
+    - biopython==1.83
+    - tqdm==4.67.1
+    - torch-geometric==2.4.0

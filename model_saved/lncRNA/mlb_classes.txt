@@ -1,0 +1,8 @@
+Cytoplasm
+Cytosol
+ExtracellularVesicle
+Membrane
+Mitochondrion
+Nucleolus
+Nucleoplasm
+Ribosome

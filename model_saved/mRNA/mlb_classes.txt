@@ -1,0 +1,8 @@
+Chromatin
+Cytoplasm
+Cytosolsub
+Membrane
+Microvesicle
+Nucleolus
+Nucleoplasm
+Nucleussub
