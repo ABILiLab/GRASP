@@ -1,0 +1,4987 @@
+{
+  "sequence_index": 230,
+  "rna_symbol": "GIHCG",
+  "sequence": "GGAGGAGTTACGCAGGCAGGGTTGTGGTTGCTGGCTGTTACCAGGACAACCGGAGGCGATTGACCGTTATCTGCGGTTTGGAGCCGTTAGCGGGAGAGGCAGAGATATTCAGAGGTCTTTTAGGATGCGCTAAAGGGTCGTGAGGGCTCTCTTAAAATTTTCTTCACAAGCGGTTATCCAGTCGTGCCCCGCGGCCCTGCTGCTGGCCCCGGGGATCTGAGTCGTACCCTCTTGTTTTTCTCTGAGTCAGTCTTAAGGTGAAATGAAGTGTGGCCCAGTGGCTCCTCACTGTCGCTTCTCTAGTTTTCTGCCTCCTTTTAGAAAATTGAATTGAAAAGACAGGATGAAGTGGACACAGCATGTGAAGACAATTCTTTCAAGAAGTTTGGCTGTCAAGGAAAACAGAGAATGTGCTAAAGAACATACAGACACAGAGCAGACAGGCCACCTTTGCAACCACATGGAGGTTTGTCTGATATTGAAGCTAAAGAAGCTAAGCTGGAAGACAGAGAGACCAAGTCCTGATGACATTGTTTGAACCCAGAGATCCAGACATGCCTGAAAACTAGTTTTACCACTGGACTTATCCGTTGAATGAGCCAATAAACTCTCTTTTATACTTAACCTTGGGTTTTACCTGGATTTTTGTCATTGACAGCTCAAAATATTCTAATATAGAAGTATACATCATTAAATCAAAAAAAAAAAAAA",
+  "sequence_length": 711,
+  "total_modsites": 13,
+  "total_structures": 101,
+  "base_importance": [
+    {
+      "position": 0,
+      "base": "G",
+      "importance": 0.00629098154604435,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 1,
+      "base": "G",
+      "importance": 0.010079204104840755,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 2,
+      "base": "A",
+      "importance": 0.011566262692213058,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 3,
+      "base": "G",
+      "importance": 0.002811495214700699,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 4,
+      "base": "G",
+      "importance": 0.007935389876365662,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 5,
+      "base": "A",
+      "importance": 0.0052734194323420525,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 6,
+      "base": "G",
+      "importance": 0.006040435284376144,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 7,
+      "base": "T",
+      "importance": 0.0072897132486104965,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 8,
+      "base": "T",
+      "importance": 0.0004122786922380328,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 9,
+      "base": "A",
+      "importance": 0.0008827727288007736,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 10,
+      "base": "C",
+      "importance": 0.0018952996470034122,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 11,
+      "base": "G",
+      "importance": 0.0009976986330002546,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 12,
+      "base": "C",
+      "importance": 0.003477836260572076,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 13,
+      "base": "A",
+      "importance": 0.003303162520751357,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 14,
+      "base": "G",
+      "importance": 0.003938828594982624,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 15,
+      "base": "G",
+      "importance": 0.006299820728600025,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 16,
+      "base": "C",
+      "importance": 0.004384538624435663,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 17,
+      "base": "A",
+      "importance": 0.0063924770802259445,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 18,
+      "base": "G",
+      "importance": 0.0007011828711256385,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 19,
+      "base": "G",
+      "importance": 0.00039903618744574487,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 20,
+      "base": "G",
+      "importance": 0.0007486161775887012,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 21,
+      "base": "T",
+      "importance": 0.010254863649606705,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 22,
+      "base": "T",
+      "importance": 0.009615186601877213,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 23,
+      "base": "G",
+      "importance": 0.007172087207436562,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 24,
+      "base": "T",
+      "importance": 0.0011747865937650204,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 25,
+      "base": "G",
+      "importance": 0.00409287353977561,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 26,
+      "base": "G",
+      "importance": 0.008648406714200974,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 27,
+      "base": "T",
+      "importance": 0.008980350568890572,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 28,
+      "base": "T",
+      "importance": 0.005658014211803675,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 29,
+      "base": "G",
+      "importance": 0.001456633908674121,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 30,
+      "base": "C",
+      "importance": 0.0052999043837189674,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 31,
+      "base": "T",
+      "importance": 0.004559025634080172,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 32,
+      "base": "G",
+      "importance": 0.007456087041646242,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 33,
+      "base": "G",
+      "importance": 0.007417410612106323,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 34,
+      "base": "C",
+      "importance": 0.001204049214720726,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 35,
+      "base": "T",
+      "importance": 0.006454167887568474,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 36,
+      "base": "G",
+      "importance": 0.009943362325429916,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 37,
+      "base": "T",
+      "importance": 0.003941423259675503,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 38,
+      "base": "T",
+      "importance": 0.005037012510001659,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 39,
+      "base": "A",
+      "importance": 0.004954527132213116,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 40,
+      "base": "C",
+      "importance": 0.0026493831537663937,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 41,
+      "base": "C",
+      "importance": 0.006929080933332443,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 42,
+      "base": "A",
+      "importance": 0.0033048768527805805,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 43,
+      "base": "G",
+      "importance": 0.0031143035739660263,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 44,
+      "base": "G",
+      "importance": 0.0036496808752417564,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 45,
+      "base": "A",
+      "importance": 0.003421932924538851,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 46,
+      "base": "C",
+      "importance": 0.005175511818379164,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 47,
+      "base": "A",
+      "importance": 0.0010213752975687385,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 48,
+      "base": "A",
+      "importance": 0.0008831811137497425,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 49,
+      "base": "C",
+      "importance": 0.005586886312812567,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 50,
+      "base": "C",
+      "importance": 0.005508227273821831,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 51,
+      "base": "G",
+      "importance": 0.0063453433103859425,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 52,
+      "base": "G",
+      "importance": 0.0016512777656316757,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 53,
+      "base": "A",
+      "importance": 0.003311337437480688,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 54,
+      "base": "G",
+      "importance": 0.009012248367071152,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 55,
+      "base": "G",
+      "importance": 0.006771272048354149,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 56,
+      "base": "C",
+      "importance": 0.005966491531580687,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 57,
+      "base": "G",
+      "importance": 0.0007004560902714729,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 58,
+      "base": "A",
+      "importance": 0.0013712910003960133,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 59,
+      "base": "T",
+      "importance": 0.006585815921425819,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 60,
+      "base": "T",
+      "importance": 0.0036508941557258368,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 61,
+      "base": "G",
+      "importance": 0.002761304844170809,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 62,
+      "base": "A",
+      "importance": 0.0021768345031887293,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 63,
+      "base": "C",
+      "importance": 0.00256705516949296,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 64,
+      "base": "C",
+      "importance": 0.0032351624686270952,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 65,
+      "base": "G",
+      "importance": 0.005754592828452587,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 66,
+      "base": "T",
+      "importance": 0.006682343780994415,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 67,
+      "base": "T",
+      "importance": 0.001578336930833757,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 68,
+      "base": "A",
+      "importance": 0.0007318779826164246,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 69,
+      "base": "T",
+      "importance": 0.00048681951011531055,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 70,
+      "base": "C",
+      "importance": 0.0008056118385866284,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 71,
+      "base": "T",
+      "importance": 0.0020778770558536053,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 72,
+      "base": "G",
+      "importance": 0.004306690767407417,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 73,
+      "base": "C",
+      "importance": 0.002816619351506233,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 74,
+      "base": "G",
+      "importance": 0.0020180726423859596,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 75,
+      "base": "G",
+      "importance": 0.0019500425551086664,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 76,
+      "base": "T",
+      "importance": 0.0020715962164103985,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 77,
+      "base": "T",
+      "importance": 0.00263475370593369,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 78,
+      "base": "T",
+      "importance": 0.0010444315848872066,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 79,
+      "base": "G",
+      "importance": 0.0005291793495416641,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 80,
+      "base": "G",
+      "importance": 0.00040391465881839395,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 81,
+      "base": "A",
+      "importance": 0.0005533999064937234,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 82,
+      "base": "G",
+      "importance": 0.004347439855337143,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 83,
+      "base": "C",
+      "importance": 0.006257251370698214,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 84,
+      "base": "C",
+      "importance": 0.0065970150753855705,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 85,
+      "base": "G",
+      "importance": 0.0008607322815805674,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 86,
+      "base": "T",
+      "importance": 0.0004079107311554253,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 87,
+      "base": "T",
+      "importance": 0.0003187505644746125,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 88,
+      "base": "A",
+      "importance": 0.00041345664067193866,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 89,
+      "base": "G",
+      "importance": 0.0004308618954382837,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 90,
+      "base": "C",
+      "importance": 0.006517009809613228,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 91,
+      "base": "G",
+      "importance": 0.006037990562617779,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 92,
+      "base": "G",
+      "importance": 0.0041391365230083466,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 93,
+      "base": "G",
+      "importance": 0.0005633471300825477,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 94,
+      "base": "A",
+      "importance": 0.0003632454900071025,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 95,
+      "base": "G",
+      "importance": 0.0034842276945710182,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 96,
+      "base": "A",
+      "importance": 0.0037664370611310005,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 97,
+      "base": "G",
+      "importance": 0.00484835309907794,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 98,
+      "base": "G",
+      "importance": 0.009747880510985851,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 99,
+      "base": "C",
+      "importance": 0.0026885648258030415,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 100,
+      "base": "A",
+      "importance": 0.0009243232198059559,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 101,
+      "base": "G",
+      "importance": 0.0030294242314994335,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 102,
+      "base": "A",
+      "importance": 0.0025061608757823706,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 103,
+      "base": "G",
+      "importance": 0.004896177444607019,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 104,
+      "base": "A",
+      "importance": 0.002465557772666216,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 105,
+      "base": "T",
+      "importance": 0.006632700562477112,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 106,
+      "base": "A",
+      "importance": 0.0024256217293441296,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 107,
+      "base": "T",
+      "importance": 0.0069967349991202354,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 108,
+      "base": "T",
+      "importance": 0.011005096137523651,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 109,
+      "base": "C",
+      "importance": 0.009850061498582363,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 110,
+      "base": "A",
+      "importance": 0.007236109580844641,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 111,
+      "base": "G",
+      "importance": 0.0034854095429182053,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 112,
+      "base": "A",
+      "importance": 0.0020939151290804148,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 113,
+      "base": "G",
+      "importance": 0.002626079833135009,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 114,
+      "base": "G",
+      "importance": 0.005075820256024599,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 115,
+      "base": "T",
+      "importance": 0.002701803343370557,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 116,
+      "base": "C",
+      "importance": 0.006576684303581715,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 117,
+      "base": "T",
+      "importance": 0.0020036064088344574,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 118,
+      "base": "T",
+      "importance": 0.0017868169816210866,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 119,
+      "base": "T",
+      "importance": 0.0016835944261401892,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 120,
+      "base": "T",
+      "importance": 0.0016565737314522266,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 121,
+      "base": "A",
+      "importance": 0.003165229456499219,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 122,
+      "base": "G",
+      "importance": 0.004024163354188204,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 123,
+      "base": "G",
+      "importance": 0.006454359274357557,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 124,
+      "base": "A",
+      "importance": 0.004075491800904274,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 125,
+      "base": "T",
+      "importance": 0.0037056952714920044,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 126,
+      "base": "G",
+      "importance": 0.000928401539567858,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 127,
+      "base": "C",
+      "importance": 0.015367047861218452,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 128,
+      "base": "G",
+      "importance": 0.00271775433793664,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 129,
+      "base": "C",
+      "importance": 0.003998489119112492,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 130,
+      "base": "T",
+      "importance": 0.0012371055781841278,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 131,
+      "base": "A",
+      "importance": 0.0007216364610940218,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 132,
+      "base": "A",
+      "importance": 0.0005880972603335977,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 133,
+      "base": "A",
+      "importance": 0.0008758674957789481,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 134,
+      "base": "G",
+      "importance": 0.018141357228159904,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 135,
+      "base": "G",
+      "importance": 0.005976230837404728,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 136,
+      "base": "G",
+      "importance": 0.00802595168352127,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 137,
+      "base": "T",
+      "importance": 0.003281901590526104,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 138,
+      "base": "C",
+      "importance": 0.0042178514413535595,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 139,
+      "base": "G",
+      "importance": 0.0013085323153063655,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 140,
+      "base": "T",
+      "importance": 0.006170243956148624,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 141,
+      "base": "G",
+      "importance": 0.004519009031355381,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 142,
+      "base": "A",
+      "importance": 0.001931168488226831,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 143,
+      "base": "G",
+      "importance": 0.0016466416418552399,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 144,
+      "base": "G",
+      "importance": 0.0016071830177679658,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 145,
+      "base": "G",
+      "importance": 0.002676198026165366,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 146,
+      "base": "C",
+      "importance": 0.00357283977791667,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 147,
+      "base": "T",
+      "importance": 0.006316236220300198,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 148,
+      "base": "C",
+      "importance": 0.0026778343599289656,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 149,
+      "base": "T",
+      "importance": 0.0020464793778955936,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 150,
+      "base": "C",
+      "importance": 0.0022746920585632324,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 151,
+      "base": "T",
+      "importance": 0.003792851697653532,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 152,
+      "base": "T",
+      "importance": 0.004219364374876022,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 153,
+      "base": "A",
+      "importance": 0.00659081619232893,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 154,
+      "base": "A",
+      "importance": 0.007640315219759941,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 155,
+      "base": "A",
+      "importance": 0.003249184228479862,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 156,
+      "base": "A",
+      "importance": 0.003960791509598494,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 157,
+      "base": "T",
+      "importance": 0.0018098297296091914,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 158,
+      "base": "T",
+      "importance": 0.001741782296448946,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 159,
+      "base": "T",
+      "importance": 0.002156235044822097,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 160,
+      "base": "T",
+      "importance": 0.0031557204201817513,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 161,
+      "base": "C",
+      "importance": 0.0041393861174583435,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 162,
+      "base": "T",
+      "importance": 0.0025440468452870846,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 163,
+      "base": "T",
+      "importance": 0.0025203542318195105,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 164,
+      "base": "C",
+      "importance": 0.003236504038795829,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 165,
+      "base": "A",
+      "importance": 0.00047136086504906416,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 166,
+      "base": "C",
+      "importance": 0.0003214924072381109,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 167,
+      "base": "A",
+      "importance": 0.00040116847958415747,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 168,
+      "base": "A",
+      "importance": 0.0005178486462682486,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 169,
+      "base": "G",
+      "importance": 0.00037976467865519226,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 170,
+      "base": "C",
+      "importance": 0.0003979585599154234,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 171,
+      "base": "G",
+      "importance": 0.0008307545213028789,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 172,
+      "base": "G",
+      "importance": 0.008675992488861084,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 173,
+      "base": "T",
+      "importance": 0.00583267118781805,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 174,
+      "base": "T",
+      "importance": 0.006331661716103554,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 175,
+      "base": "A",
+      "importance": 0.005660391412675381,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 176,
+      "base": "T",
+      "importance": 0.007312343921512365,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 177,
+      "base": "C",
+      "importance": 0.003440244821831584,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 178,
+      "base": "C",
+      "importance": 0.004981141071766615,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 179,
+      "base": "A",
+      "importance": 0.002859492553398013,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 180,
+      "base": "G",
+      "importance": 0.002280952874571085,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 181,
+      "base": "T",
+      "importance": 0.0022902535274624825,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 182,
+      "base": "C",
+      "importance": 0.0007259550038725138,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 183,
+      "base": "G",
+      "importance": 0.00044111782335676253,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 184,
+      "base": "T",
+      "importance": 0.000614310207311064,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 185,
+      "base": "G",
+      "importance": 0.000659899553284049,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 186,
+      "base": "C",
+      "importance": 0.003190969815477729,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 187,
+      "base": "C",
+      "importance": 0.002601852174848318,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 188,
+      "base": "C",
+      "importance": 0.00252524227835238,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 189,
+      "base": "C",
+      "importance": 0.0028507953975349665,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 190,
+      "base": "G",
+      "importance": 0.0033214250579476357,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 191,
+      "base": "C",
+      "importance": 0.005571846850216389,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 192,
+      "base": "G",
+      "importance": 0.0055169519037008286,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 193,
+      "base": "G",
+      "importance": 0.0032170237973332405,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 194,
+      "base": "C",
+      "importance": 0.0035673065576702356,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 195,
+      "base": "C",
+      "importance": 0.003917736932635307,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 196,
+      "base": "C",
+      "importance": 0.0010269258636981249,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 197,
+      "base": "T",
+      "importance": 0.002038831589743495,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 198,
+      "base": "G",
+      "importance": 0.0018505575135350227,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 199,
+      "base": "C",
+      "importance": 0.0008987512555904686,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 200,
+      "base": "T",
+      "importance": 0.001012760098092258,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 201,
+      "base": "G",
+      "importance": 0.0007648710743524134,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 202,
+      "base": "C",
+      "importance": 0.0008830492733977735,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 203,
+      "base": "T",
+      "importance": 0.002394079463556409,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 204,
+      "base": "G",
+      "importance": 0.00732746347784996,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 205,
+      "base": "G",
+      "importance": 0.004101000726222992,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 206,
+      "base": "C",
+      "importance": 0.003471041563898325,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 207,
+      "base": "C",
+      "importance": 0.0035533010959625244,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 208,
+      "base": "C",
+      "importance": 0.001967434771358967,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 209,
+      "base": "C",
+      "importance": 0.008090950548648834,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 210,
+      "base": "G",
+      "importance": 0.005675497930496931,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 211,
+      "base": "G",
+      "importance": 0.0033688824623823166,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 212,
+      "base": "G",
+      "importance": 0.002646341919898987,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 213,
+      "base": "G",
+      "importance": 0.0024873167276382446,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 214,
+      "base": "A",
+      "importance": 0.0007337124552577734,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 215,
+      "base": "T",
+      "importance": 0.004437600262463093,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 216,
+      "base": "C",
+      "importance": 0.00849955901503563,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 217,
+      "base": "T",
+      "importance": 0.004533814731985331,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 218,
+      "base": "G",
+      "importance": 0.006314213387668133,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 219,
+      "base": "A",
+      "importance": 0.005276304204016924,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 220,
+      "base": "G",
+      "importance": 0.009160440415143967,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 221,
+      "base": "T",
+      "importance": 0.006842088419944048,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 222,
+      "base": "C",
+      "importance": 0.012828820385038853,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 223,
+      "base": "G",
+      "importance": 0.011397751048207283,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 224,
+      "base": "T",
+      "importance": 0.00494832918047905,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 225,
+      "base": "A",
+      "importance": 0.004288863390684128,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 226,
+      "base": "C",
+      "importance": 0.006051444914191961,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 227,
+      "base": "C",
+      "importance": 0.0044366056099534035,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 228,
+      "base": "C",
+      "importance": 0.008446169085800648,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 229,
+      "base": "T",
+      "importance": 0.006987830623984337,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 230,
+      "base": "C",
+      "importance": 0.009915078058838844,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 231,
+      "base": "T",
+      "importance": 0.004778297618031502,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 232,
+      "base": "T",
+      "importance": 0.005712270271033049,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 233,
+      "base": "G",
+      "importance": 0.002408536383882165,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 234,
+      "base": "T",
+      "importance": 0.0027932007797062397,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 235,
+      "base": "T",
+      "importance": 0.004161583259701729,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 236,
+      "base": "T",
+      "importance": 0.002624128246679902,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 237,
+      "base": "T",
+      "importance": 0.0019137243507429957,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 238,
+      "base": "T",
+      "importance": 0.001783448620699346,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 239,
+      "base": "C",
+      "importance": 0.0023989160545170307,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 240,
+      "base": "T",
+      "importance": 0.006758749485015869,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 241,
+      "base": "C",
+      "importance": 0.003048166399821639,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 242,
+      "base": "T",
+      "importance": 0.00230962410569191,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 243,
+      "base": "G",
+      "importance": 0.00199458422139287,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 244,
+      "base": "A",
+      "importance": 0.004889355041086674,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 245,
+      "base": "G",
+      "importance": 0.002548620570451021,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 246,
+      "base": "T",
+      "importance": 0.002915671793743968,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 247,
+      "base": "C",
+      "importance": 0.00529945082962513,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 248,
+      "base": "A",
+      "importance": 0.0034653078764677048,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 249,
+      "base": "G",
+      "importance": 0.006610751152038574,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 250,
+      "base": "T",
+      "importance": 0.0023029230069369078,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 251,
+      "base": "C",
+      "importance": 0.006399737671017647,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 252,
+      "base": "T",
+      "importance": 0.004963537212461233,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 253,
+      "base": "T",
+      "importance": 0.006510088220238686,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 254,
+      "base": "A",
+      "importance": 0.0048400722444057465,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 255,
+      "base": "A",
+      "importance": 0.0026571706403046846,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 256,
+      "base": "G",
+      "importance": 0.0013224022695794702,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 257,
+      "base": "G",
+      "importance": 0.0010505595710128546,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 258,
+      "base": "T",
+      "importance": 0.0035351505503058434,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 259,
+      "base": "G",
+      "importance": 0.004879222251474857,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 260,
+      "base": "A",
+      "importance": 0.0047842394560575485,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 261,
+      "base": "A",
+      "importance": 0.0031096162274479866,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 262,
+      "base": "A",
+      "importance": 0.003765949746593833,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 263,
+      "base": "T",
+      "importance": 0.0022168210707604885,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 264,
+      "base": "G",
+      "importance": 0.005995224229991436,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 265,
+      "base": "A",
+      "importance": 0.005421914160251617,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 266,
+      "base": "A",
+      "importance": 0.00880016852170229,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 267,
+      "base": "G",
+      "importance": 0.007344375364482403,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 268,
+      "base": "T",
+      "importance": 0.006058594211935997,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 269,
+      "base": "G",
+      "importance": 0.009457727894186974,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 270,
+      "base": "T",
+      "importance": 0.00416648481041193,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 271,
+      "base": "G",
+      "importance": 0.000747217214666307,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 272,
+      "base": "G",
+      "importance": 0.005598944611847401,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 273,
+      "base": "C",
+      "importance": 0.006680202204734087,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 274,
+      "base": "C",
+      "importance": 0.007310603745281696,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 275,
+      "base": "C",
+      "importance": 0.0008957367390394211,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 276,
+      "base": "A",
+      "importance": 0.0010075701866298914,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 277,
+      "base": "G",
+      "importance": 0.0006674454780295491,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 278,
+      "base": "T",
+      "importance": 0.0021159204188734293,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 279,
+      "base": "G",
+      "importance": 0.01004481129348278,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 280,
+      "base": "G",
+      "importance": 0.0061049992218613625,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 281,
+      "base": "C",
+      "importance": 0.004946829751133919,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 282,
+      "base": "T",
+      "importance": 0.0048546576872467995,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 283,
+      "base": "C",
+      "importance": 0.011953632347285748,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 284,
+      "base": "C",
+      "importance": 0.0028922210913151503,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 285,
+      "base": "T",
+      "importance": 0.010082965716719627,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 286,
+      "base": "C",
+      "importance": 0.01013505645096302,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 287,
+      "base": "A",
+      "importance": 0.002028606366366148,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 288,
+      "base": "C",
+      "importance": 0.002611681818962097,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 289,
+      "base": "T",
+      "importance": 0.002145354636013508,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 290,
+      "base": "G",
+      "importance": 0.003370205871760845,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 291,
+      "base": "T",
+      "importance": 0.003158905077725649,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 292,
+      "base": "C",
+      "importance": 0.007336633745580912,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 293,
+      "base": "G",
+      "importance": 0.001317388261668384,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 294,
+      "base": "C",
+      "importance": 0.0007352266111411154,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 295,
+      "base": "T",
+      "importance": 0.0035954166669398546,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 296,
+      "base": "T",
+      "importance": 0.003916856832802296,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 297,
+      "base": "C",
+      "importance": 0.009268175810575485,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 298,
+      "base": "T",
+      "importance": 0.004116985015571117,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 299,
+      "base": "C",
+      "importance": 0.0028376250993460417,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 300,
+      "base": "T",
+      "importance": 0.001415111473761499,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 301,
+      "base": "A",
+      "importance": 0.0010071826400235295,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 302,
+      "base": "G",
+      "importance": 0.0020544002763926983,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 303,
+      "base": "T",
+      "importance": 0.0019449753453955054,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 304,
+      "base": "T",
+      "importance": 0.002898481208831072,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 305,
+      "base": "T",
+      "importance": 0.0013819384621456265,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 306,
+      "base": "T",
+      "importance": 0.000899046310223639,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 307,
+      "base": "C",
+      "importance": 0.0008794020395725965,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 308,
+      "base": "T",
+      "importance": 0.0010121435625478625,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 309,
+      "base": "G",
+      "importance": 0.0018906770274043083,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 310,
+      "base": "C",
+      "importance": 0.003684133291244507,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 311,
+      "base": "C",
+      "importance": 0.003257216652855277,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 312,
+      "base": "T",
+      "importance": 0.0012475388357415795,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 313,
+      "base": "C",
+      "importance": 0.000842332374304533,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 314,
+      "base": "C",
+      "importance": 0.0007505562389269471,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 315,
+      "base": "T",
+      "importance": 0.000825878232717514,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 316,
+      "base": "T",
+      "importance": 0.0016671663615852594,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 317,
+      "base": "T",
+      "importance": 0.002644320484250784,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 318,
+      "base": "T",
+      "importance": 0.0023814989253878593,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 319,
+      "base": "A",
+      "importance": 0.0008237482979893684,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 320,
+      "base": "G",
+      "importance": 0.0007566321291960776,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 321,
+      "base": "A",
+      "importance": 0.000912543386220932,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 322,
+      "base": "A",
+      "importance": 0.0011691674590110779,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 323,
+      "base": "A",
+      "importance": 0.0013148512225598097,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 324,
+      "base": "A",
+      "importance": 0.0009113498963415623,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 325,
+      "base": "T",
+      "importance": 0.0007357943104580045,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 326,
+      "base": "T",
+      "importance": 0.0006867848569527268,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 327,
+      "base": "G",
+      "importance": 0.0008668964146636426,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 328,
+      "base": "A",
+      "importance": 0.0011405518744140863,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 329,
+      "base": "A",
+      "importance": 0.0023021879605948925,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 330,
+      "base": "T",
+      "importance": 0.0031166188418865204,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 331,
+      "base": "T",
+      "importance": 0.001376771368086338,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 332,
+      "base": "G",
+      "importance": 0.0029555195942521095,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 333,
+      "base": "A",
+      "importance": 0.003308200975880027,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 334,
+      "base": "A",
+      "importance": 0.004492005333304405,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 335,
+      "base": "A",
+      "importance": 0.004225743934512138,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 336,
+      "base": "A",
+      "importance": 0.0042693838477134705,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 337,
+      "base": "G",
+      "importance": 0.0027727254200726748,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 338,
+      "base": "A",
+      "importance": 0.001671158242970705,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 339,
+      "base": "C",
+      "importance": 0.002039761282503605,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 340,
+      "base": "A",
+      "importance": 0.0018207639222964644,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 341,
+      "base": "G",
+      "importance": 0.0033941862639039755,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 342,
+      "base": "G",
+      "importance": 0.006632077973335981,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 343,
+      "base": "A",
+      "importance": 0.00899746548384428,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 344,
+      "base": "T",
+      "importance": 0.0021503008902072906,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 345,
+      "base": "G",
+      "importance": 0.006159473210573196,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 346,
+      "base": "A",
+      "importance": 0.005113170016556978,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 347,
+      "base": "A",
+      "importance": 0.001646961783990264,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 348,
+      "base": "G",
+      "importance": 0.003069167025387287,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 349,
+      "base": "T",
+      "importance": 0.0019737023394554853,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 350,
+      "base": "G",
+      "importance": 0.0006964460480958223,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 351,
+      "base": "G",
+      "importance": 0.0009307913132943213,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 352,
+      "base": "A",
+      "importance": 0.00208971556276083,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 353,
+      "base": "C",
+      "importance": 0.0028750598430633545,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 354,
+      "base": "A",
+      "importance": 0.002993796719238162,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 355,
+      "base": "C",
+      "importance": 0.0029753432609140873,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 356,
+      "base": "A",
+      "importance": 0.0053113107569515705,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 357,
+      "base": "G",
+      "importance": 0.001384229864925146,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 358,
+      "base": "C",
+      "importance": 0.0014884143602102995,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 359,
+      "base": "A",
+      "importance": 0.00135983491782099,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 360,
+      "base": "T",
+      "importance": 0.00885099358856678,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 361,
+      "base": "G",
+      "importance": 0.006698330864310265,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 362,
+      "base": "T",
+      "importance": 0.001792669645510614,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 363,
+      "base": "G",
+      "importance": 0.002014536177739501,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 364,
+      "base": "A",
+      "importance": 0.0014569135382771492,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 365,
+      "base": "A",
+      "importance": 0.0010124511318281293,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 366,
+      "base": "G",
+      "importance": 0.0009848501067608595,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 367,
+      "base": "A",
+      "importance": 0.005906732752919197,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 368,
+      "base": "C",
+      "importance": 0.0048848544247448444,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 369,
+      "base": "A",
+      "importance": 0.005863585043698549,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 370,
+      "base": "A",
+      "importance": 0.004377887584269047,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 371,
+      "base": "T",
+      "importance": 0.0037160548381507397,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 372,
+      "base": "T",
+      "importance": 0.0029941864777356386,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 373,
+      "base": "C",
+      "importance": 0.01258782297372818,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 374,
+      "base": "T",
+      "importance": 0.006908433046191931,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 375,
+      "base": "T",
+      "importance": 0.0018840100383386016,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 376,
+      "base": "T",
+      "importance": 0.00174497882835567,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 377,
+      "base": "C",
+      "importance": 0.00246881740167737,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 378,
+      "base": "A",
+      "importance": 0.005758215673267841,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 379,
+      "base": "A",
+      "importance": 0.011230744421482086,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 380,
+      "base": "G",
+      "importance": 0.004228352569043636,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 381,
+      "base": "A",
+      "importance": 0.004677368327975273,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 382,
+      "base": "A",
+      "importance": 0.0038008932024240494,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 383,
+      "base": "G",
+      "importance": 0.005827491171658039,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 384,
+      "base": "T",
+      "importance": 0.009048184379935265,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 385,
+      "base": "T",
+      "importance": 0.007123313844203949,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 386,
+      "base": "T",
+      "importance": 0.002713085152208805,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 387,
+      "base": "G",
+      "importance": 0.0019572461023926735,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 388,
+      "base": "G",
+      "importance": 0.0017237599240615964,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 389,
+      "base": "C",
+      "importance": 0.0034776274114847183,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 390,
+      "base": "T",
+      "importance": 0.010934011079370975,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 391,
+      "base": "G",
+      "importance": 0.00889396108686924,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 392,
+      "base": "T",
+      "importance": 0.008511258289217949,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 393,
+      "base": "C",
+      "importance": 0.00984105933457613,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 394,
+      "base": "A",
+      "importance": 0.02746741473674774,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 395,
+      "base": "A",
+      "importance": 0.02171408012509346,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 396,
+      "base": "G",
+      "importance": 0.001711155055090785,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 397,
+      "base": "G",
+      "importance": 0.0012793135829269886,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 398,
+      "base": "A",
+      "importance": 0.001544280326925218,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 399,
+      "base": "A",
+      "importance": 0.0016425774665549397,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 400,
+      "base": "A",
+      "importance": 0.0022760690189898014,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 401,
+      "base": "A",
+      "importance": 0.0030304966494441032,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 402,
+      "base": "C",
+      "importance": 0.0026227030903100967,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 403,
+      "base": "A",
+      "importance": 0.010510062798857689,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 404,
+      "base": "G",
+      "importance": 0.011875804513692856,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 405,
+      "base": "A",
+      "importance": 0.004109849687665701,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 406,
+      "base": "G",
+      "importance": 0.008111875504255295,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 407,
+      "base": "A",
+      "importance": 0.013209820725023746,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 408,
+      "base": "A",
+      "importance": 0.02044042944908142,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 409,
+      "base": "T",
+      "importance": 0.012021973729133606,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 410,
+      "base": "G",
+      "importance": 0.007889380678534508,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 411,
+      "base": "T",
+      "importance": 0.003964025992900133,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 412,
+      "base": "G",
+      "importance": 0.003616482485085726,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 413,
+      "base": "C",
+      "importance": 0.010531452484428883,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 414,
+      "base": "T",
+      "importance": 0.02988067828118801,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 415,
+      "base": "A",
+      "importance": 0.047571808099746704,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 416,
+      "base": "A",
+      "importance": 0.028108906000852585,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 417,
+      "base": "A",
+      "importance": 0.02308310568332672,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 418,
+      "base": "G",
+      "importance": 0.015317324548959732,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 419,
+      "base": "A",
+      "importance": 0.035018667578697205,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 420,
+      "base": "A",
+      "importance": 0.04983782395720482,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 421,
+      "base": "C",
+      "importance": 0.043082136660814285,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 422,
+      "base": "A",
+      "importance": 0.05543934553861618,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 423,
+      "base": "T",
+      "importance": 0.030227934941649437,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 424,
+      "base": "A",
+      "importance": 0.028067931532859802,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 425,
+      "base": "C",
+      "importance": 0.026041537523269653,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 426,
+      "base": "A",
+      "importance": 0.07157551497220993,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 427,
+      "base": "G",
+      "importance": 0.01986311748623848,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 428,
+      "base": "A",
+      "importance": 0.008794575929641724,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 429,
+      "base": "C",
+      "importance": 0.015403445810079575,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 430,
+      "base": "A",
+      "importance": 0.03719858080148697,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 431,
+      "base": "C",
+      "importance": 0.008723462000489235,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 432,
+      "base": "A",
+      "importance": 0.004989012144505978,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 433,
+      "base": "G",
+      "importance": 0.004107508808374405,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 434,
+      "base": "A",
+      "importance": 0.007451528683304787,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 435,
+      "base": "G",
+      "importance": 0.002231963910162449,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 436,
+      "base": "C",
+      "importance": 0.0028019798919558525,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 437,
+      "base": "A",
+      "importance": 0.0031511997804045677,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 438,
+      "base": "G",
+      "importance": 0.0035175669472664595,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 439,
+      "base": "A",
+      "importance": 0.007326413877308369,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 440,
+      "base": "C",
+      "importance": 0.003774851094931364,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 441,
+      "base": "A",
+      "importance": 0.0038656911347061396,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 442,
+      "base": "G",
+      "importance": 0.0033115181140601635,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 443,
+      "base": "G",
+      "importance": 0.002464903984218836,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 444,
+      "base": "C",
+      "importance": 0.0021850273478776217,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 445,
+      "base": "C",
+      "importance": 0.010033811442553997,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 446,
+      "base": "A",
+      "importance": 0.025072598829865456,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 447,
+      "base": "C",
+      "importance": 0.014318035915493965,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 448,
+      "base": "C",
+      "importance": 0.014075578190386295,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 449,
+      "base": "T",
+      "importance": 0.0066025955602526665,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 450,
+      "base": "T",
+      "importance": 0.007301043253391981,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 451,
+      "base": "T",
+      "importance": 0.013131866231560707,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 452,
+      "base": "G",
+      "importance": 0.008642311207950115,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 453,
+      "base": "C",
+      "importance": 0.0033871931955218315,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 454,
+      "base": "A",
+      "importance": 0.007269252557307482,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 455,
+      "base": "A",
+      "importance": 0.009881334379315376,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 456,
+      "base": "C",
+      "importance": 0.006435029208660126,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 457,
+      "base": "C",
+      "importance": 0.0041708629578351974,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 458,
+      "base": "A",
+      "importance": 0.009504490531980991,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 459,
+      "base": "C",
+      "importance": 0.011209094896912575,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 460,
+      "base": "A",
+      "importance": 0.020372634753584862,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 461,
+      "base": "T",
+      "importance": 0.01243699062615633,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 462,
+      "base": "G",
+      "importance": 0.014413964934647083,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 463,
+      "base": "G",
+      "importance": 0.015024801716208458,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 464,
+      "base": "A",
+      "importance": 0.05293509364128113,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 465,
+      "base": "G",
+      "importance": 0.011410068720579147,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 466,
+      "base": "G",
+      "importance": 0.002968486165627837,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 467,
+      "base": "T",
+      "importance": 0.0040636514313519,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 468,
+      "base": "T",
+      "importance": 0.0031058574095368385,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 469,
+      "base": "T",
+      "importance": 0.0037879212759435177,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 470,
+      "base": "G",
+      "importance": 0.0044100843369960785,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 471,
+      "base": "T",
+      "importance": 0.007992997765541077,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 472,
+      "base": "C",
+      "importance": 0.004209661856293678,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 473,
+      "base": "T",
+      "importance": 0.0038876610342413187,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 474,
+      "base": "G",
+      "importance": 0.0042091235518455505,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 475,
+      "base": "A",
+      "importance": 0.003874364774674177,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 476,
+      "base": "T",
+      "importance": 0.006026390008628368,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 477,
+      "base": "A",
+      "importance": 0.01402495801448822,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 478,
+      "base": "T",
+      "importance": 0.007279599085450172,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 479,
+      "base": "T",
+      "importance": 0.003066612407565117,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 480,
+      "base": "G",
+      "importance": 0.0031676534563302994,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 481,
+      "base": "A",
+      "importance": 0.0026934584602713585,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 482,
+      "base": "A",
+      "importance": 0.006211199797689915,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 483,
+      "base": "G",
+      "importance": 0.004670991562306881,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 484,
+      "base": "C",
+      "importance": 0.005540317855775356,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 485,
+      "base": "T",
+      "importance": 0.007533268537372351,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 486,
+      "base": "A",
+      "importance": 0.00912667065858841,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 487,
+      "base": "A",
+      "importance": 0.008430199697613716,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 488,
+      "base": "A",
+      "importance": 0.004021052271127701,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 489,
+      "base": "G",
+      "importance": 0.001674118684604764,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 490,
+      "base": "A",
+      "importance": 0.004214793909341097,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 491,
+      "base": "A",
+      "importance": 0.006747847888618708,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 492,
+      "base": "G",
+      "importance": 0.008659644052386284,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 493,
+      "base": "C",
+      "importance": 0.007468037772923708,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 494,
+      "base": "T",
+      "importance": 0.00874701514840126,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 495,
+      "base": "A",
+      "importance": 0.003645884105935693,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 496,
+      "base": "A",
+      "importance": 0.006260368041694164,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 497,
+      "base": "G",
+      "importance": 0.004177164286375046,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 498,
+      "base": "C",
+      "importance": 0.004253472201526165,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 499,
+      "base": "T",
+      "importance": 0.003908123821020126,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 500,
+      "base": "G",
+      "importance": 0.003680141642689705,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 501,
+      "base": "G",
+      "importance": 0.004838554188609123,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 502,
+      "base": "A",
+      "importance": 0.019581835716962814,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 503,
+      "base": "A",
+      "importance": 0.08773842453956604,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 504,
+      "base": "G",
+      "importance": 0.02415778860449791,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 505,
+      "base": "A",
+      "importance": 0.008634565398097038,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 506,
+      "base": "C",
+      "importance": 0.012418584898114204,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 507,
+      "base": "A",
+      "importance": 0.010073430836200714,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 508,
+      "base": "G",
+      "importance": 0.005431787110865116,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 509,
+      "base": "A",
+      "importance": 0.01562111359089613,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 510,
+      "base": "G",
+      "importance": 0.0058480529114604,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 511,
+      "base": "A",
+      "importance": 0.011264697648584843,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 512,
+      "base": "G",
+      "importance": 0.004630088806152344,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 513,
+      "base": "A",
+      "importance": 0.0060106003656983376,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 514,
+      "base": "C",
+      "importance": 0.0036865505389869213,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 515,
+      "base": "C",
+      "importance": 0.005106187891215086,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 516,
+      "base": "A",
+      "importance": 0.008934907615184784,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 517,
+      "base": "A",
+      "importance": 0.007021891884505749,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 518,
+      "base": "G",
+      "importance": 0.004328979179263115,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 519,
+      "base": "T",
+      "importance": 0.003409255761653185,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 520,
+      "base": "C",
+      "importance": 0.0033918130211532116,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 521,
+      "base": "C",
+      "importance": 0.0031160362996160984,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 522,
+      "base": "T",
+      "importance": 0.002798918867483735,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 523,
+      "base": "G",
+      "importance": 0.004526039585471153,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 524,
+      "base": "A",
+      "importance": 0.018668705597519875,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 525,
+      "base": "T",
+      "importance": 0.008216062560677528,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 526,
+      "base": "G",
+      "importance": 0.0035320036113262177,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 527,
+      "base": "A",
+      "importance": 0.0036044418811798096,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 528,
+      "base": "C",
+      "importance": 0.004130769520998001,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 529,
+      "base": "A",
+      "importance": 0.007723143324255943,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 530,
+      "base": "T",
+      "importance": 0.013521682471036911,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 531,
+      "base": "T",
+      "importance": 0.01120489276945591,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 532,
+      "base": "G",
+      "importance": 0.007664324715733528,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 533,
+      "base": "T",
+      "importance": 0.01580740511417389,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 534,
+      "base": "T",
+      "importance": 0.02357800491154194,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 535,
+      "base": "T",
+      "importance": 0.025758473202586174,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 536,
+      "base": "G",
+      "importance": 0.01977398246526718,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 537,
+      "base": "A",
+      "importance": 0.04883665591478348,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 538,
+      "base": "A",
+      "importance": 0.05566687881946564,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 539,
+      "base": "C",
+      "importance": 0.029581081122159958,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 540,
+      "base": "C",
+      "importance": 0.007375333458185196,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 541,
+      "base": "C",
+      "importance": 0.0051543619483709335,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 542,
+      "base": "A",
+      "importance": 0.005572423338890076,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 543,
+      "base": "G",
+      "importance": 0.021572714671492577,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 544,
+      "base": "A",
+      "importance": 0.05033522844314575,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 545,
+      "base": "G",
+      "importance": 0.0052397288382053375,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 546,
+      "base": "A",
+      "importance": 0.0037785186432302,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 547,
+      "base": "T",
+      "importance": 0.004371898248791695,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 548,
+      "base": "C",
+      "importance": 0.011362902820110321,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 549,
+      "base": "C",
+      "importance": 0.01845243200659752,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 550,
+      "base": "A",
+      "importance": 0.00645472202450037,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 551,
+      "base": "G",
+      "importance": 0.009105533361434937,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 552,
+      "base": "A",
+      "importance": 0.04945370554924011,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 553,
+      "base": "C",
+      "importance": 0.04842900112271309,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 554,
+      "base": "A",
+      "importance": 0.0834614485502243,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 555,
+      "base": "T",
+      "importance": 0.012381507083773613,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 556,
+      "base": "G",
+      "importance": 0.0036298013292253017,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 557,
+      "base": "C",
+      "importance": 0.003962957300245762,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 558,
+      "base": "C",
+      "importance": 0.0034448751248419285,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 559,
+      "base": "T",
+      "importance": 0.0028437499422580004,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 560,
+      "base": "G",
+      "importance": 0.0031798870768398046,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 561,
+      "base": "A",
+      "importance": 0.009060226380825043,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 562,
+      "base": "A",
+      "importance": 0.008953329175710678,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 563,
+      "base": "A",
+      "importance": 0.006703482009470463,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 564,
+      "base": "A",
+      "importance": 0.006151670590043068,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 565,
+      "base": "C",
+      "importance": 0.006425718776881695,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 566,
+      "base": "T",
+      "importance": 0.004914451856166124,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 567,
+      "base": "A",
+      "importance": 0.0068768952041864395,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 568,
+      "base": "G",
+      "importance": 0.005674958229064941,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 569,
+      "base": "T",
+      "importance": 0.0064467135816812515,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 570,
+      "base": "T",
+      "importance": 0.003066426143050194,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 571,
+      "base": "T",
+      "importance": 0.0033869559410959482,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 572,
+      "base": "T",
+      "importance": 0.005203597713261843,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 573,
+      "base": "A",
+      "importance": 0.007981414906680584,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 574,
+      "base": "C",
+      "importance": 0.008433781564235687,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 575,
+      "base": "C",
+      "importance": 0.0067937737330794334,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 576,
+      "base": "A",
+      "importance": 0.006749884225428104,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 577,
+      "base": "C",
+      "importance": 0.004477436654269695,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 578,
+      "base": "T",
+      "importance": 0.00584203377366066,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 579,
+      "base": "G",
+      "importance": 0.005597349256277084,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 580,
+      "base": "G",
+      "importance": 0.011982526630163193,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 581,
+      "base": "A",
+      "importance": 0.007759604137390852,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 582,
+      "base": "C",
+      "importance": 0.005334220360964537,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 583,
+      "base": "T",
+      "importance": 0.003916893154382706,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 584,
+      "base": "T",
+      "importance": 0.023119550198316574,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 585,
+      "base": "A",
+      "importance": 0.16193842887878418,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 586,
+      "base": "T",
+      "importance": 0.025020906701683998,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 587,
+      "base": "C",
+      "importance": 0.007901790551841259,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 588,
+      "base": "C",
+      "importance": 0.007959052920341492,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 589,
+      "base": "G",
+      "importance": 0.0032745888456702232,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 590,
+      "base": "T",
+      "importance": 0.008185932412743568,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 591,
+      "base": "T",
+      "importance": 0.008187943138182163,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 592,
+      "base": "G",
+      "importance": 0.004970951937139034,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 593,
+      "base": "A",
+      "importance": 0.011491794139146805,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 594,
+      "base": "A",
+      "importance": 0.009475747123360634,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 595,
+      "base": "T",
+      "importance": 0.0103820925578475,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 596,
+      "base": "G",
+      "importance": 0.005321023054420948,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 597,
+      "base": "A",
+      "importance": 0.010321946814656258,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 598,
+      "base": "G",
+      "importance": 0.008021848276257515,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 599,
+      "base": "C",
+      "importance": 0.01170493196696043,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 600,
+      "base": "C",
+      "importance": 0.0038960534147918224,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 601,
+      "base": "A",
+      "importance": 0.004302017856389284,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 602,
+      "base": "A",
+      "importance": 0.008123885840177536,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 603,
+      "base": "T",
+      "importance": 0.008789721876382828,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 604,
+      "base": "A",
+      "importance": 0.011471143923699856,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 605,
+      "base": "A",
+      "importance": 0.012993899174034595,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 606,
+      "base": "A",
+      "importance": 0.011361830867826939,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": true
+    },
+    {
+      "position": 607,
+      "base": "C",
+      "importance": 0.0037642864044755697,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 608,
+      "base": "T",
+      "importance": 0.003162400797009468,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 609,
+      "base": "C",
+      "importance": 0.003960894420742989,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 610,
+      "base": "T",
+      "importance": 0.005563299171626568,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 611,
+      "base": "C",
+      "importance": 0.007468468975275755,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 612,
+      "base": "T",
+      "importance": 0.00968259759247303,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 613,
+      "base": "T",
+      "importance": 0.012769732624292374,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 614,
+      "base": "T",
+      "importance": 0.010016927495598793,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 615,
+      "base": "T",
+      "importance": 0.01048489473760128,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 616,
+      "base": "A",
+      "importance": 0.015590045601129532,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 617,
+      "base": "T",
+      "importance": 0.013589822687208652,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 618,
+      "base": "A",
+      "importance": 0.011883783154189587,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 619,
+      "base": "C",
+      "importance": 0.0073913815431296825,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 620,
+      "base": "T",
+      "importance": 0.005844291299581528,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 621,
+      "base": "T",
+      "importance": 0.007641264237463474,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 622,
+      "base": "A",
+      "importance": 0.015564743429422379,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 623,
+      "base": "A",
+      "importance": 0.013807939365506172,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 624,
+      "base": "C",
+      "importance": 0.02002284862101078,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 625,
+      "base": "C",
+      "importance": 0.024665087461471558,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 626,
+      "base": "T",
+      "importance": 0.019636578857898712,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 627,
+      "base": "T",
+      "importance": 0.03262735903263092,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 628,
+      "base": "G",
+      "importance": 0.017997732385993004,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 629,
+      "base": "G",
+      "importance": 0.012818096205592155,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 630,
+      "base": "G",
+      "importance": 0.0058608027175068855,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 631,
+      "base": "T",
+      "importance": 0.010436760261654854,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 632,
+      "base": "T",
+      "importance": 0.0066120256669819355,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 633,
+      "base": "T",
+      "importance": 0.007615937851369381,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 634,
+      "base": "T",
+      "importance": 0.013426011428236961,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 635,
+      "base": "A",
+      "importance": 0.016582394018769264,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 636,
+      "base": "C",
+      "importance": 0.014798615127801895,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 637,
+      "base": "C",
+      "importance": 0.01839533820748329,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 638,
+      "base": "T",
+      "importance": 0.00899521354585886,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 639,
+      "base": "G",
+      "importance": 0.009945301339030266,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 640,
+      "base": "G",
+      "importance": 0.008026257157325745,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 641,
+      "base": "A",
+      "importance": 0.01128290593624115,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 642,
+      "base": "T",
+      "importance": 0.003946411423385143,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 643,
+      "base": "T",
+      "importance": 0.0031184961553663015,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 644,
+      "base": "T",
+      "importance": 0.0024756137281656265,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 645,
+      "base": "T",
+      "importance": 0.00281877676025033,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 646,
+      "base": "T",
+      "importance": 0.010301683098077774,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 647,
+      "base": "G",
+      "importance": 0.008386008441448212,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 648,
+      "base": "T",
+      "importance": 0.011568999849259853,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 649,
+      "base": "C",
+      "importance": 0.022297296673059464,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 650,
+      "base": "A",
+      "importance": 0.01272512599825859,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 651,
+      "base": "T",
+      "importance": 0.006242356728762388,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 652,
+      "base": "T",
+      "importance": 0.006868204101920128,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 653,
+      "base": "G",
+      "importance": 0.009112896397709846,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 654,
+      "base": "A",
+      "importance": 0.016823086887598038,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 655,
+      "base": "C",
+      "importance": 0.018354877829551697,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 656,
+      "base": "A",
+      "importance": 0.02146587148308754,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 657,
+      "base": "G",
+      "importance": 0.007797755300998688,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 658,
+      "base": "C",
+      "importance": 0.0069240364246070385,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 659,
+      "base": "T",
+      "importance": 0.017333419993519783,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 660,
+      "base": "C",
+      "importance": 0.01123318262398243,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 661,
+      "base": "A",
+      "importance": 0.032106537371873856,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 662,
+      "base": "A",
+      "importance": 0.07297912985086441,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 663,
+      "base": "A",
+      "importance": 0.0663069486618042,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 664,
+      "base": "A",
+      "importance": 0.05083884298801422,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 665,
+      "base": "T",
+      "importance": 0.05545567721128464,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 666,
+      "base": "A",
+      "importance": 0.10236617922782898,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 667,
+      "base": "T",
+      "importance": 0.035654399544000626,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 668,
+      "base": "T",
+      "importance": 0.027617115527391434,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 669,
+      "base": "C",
+      "importance": 0.025284364819526672,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 670,
+      "base": "T",
+      "importance": 0.02311161532998085,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 671,
+      "base": "A",
+      "importance": 0.05176156014204025,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 672,
+      "base": "A",
+      "importance": 0.0709112137556076,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 673,
+      "base": "T",
+      "importance": 0.037435002624988556,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 674,
+      "base": "A",
+      "importance": 0.04503127932548523,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 675,
+      "base": "T",
+      "importance": 0.026464516296982765,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 676,
+      "base": "A",
+      "importance": 0.023875702172517776,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 677,
+      "base": "G",
+      "importance": 0.015587421134114265,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 678,
+      "base": "A",
+      "importance": 0.048986174166202545,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 679,
+      "base": "A",
+      "importance": 0.04119177162647247,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 680,
+      "base": "G",
+      "importance": 0.006157215218991041,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 681,
+      "base": "T",
+      "importance": 0.009729484096169472,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 682,
+      "base": "A",
+      "importance": 0.013556845486164093,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 683,
+      "base": "T",
+      "importance": 0.010431604459881783,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 684,
+      "base": "A",
+      "importance": 0.02945360727608204,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 685,
+      "base": "C",
+      "importance": 0.01613503322005272,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 686,
+      "base": "A",
+      "importance": 0.022007431834936142,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 687,
+      "base": "T",
+      "importance": 0.012946628034114838,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 688,
+      "base": "C",
+      "importance": 0.011969096027314663,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 689,
+      "base": "A",
+      "importance": 0.021851632744073868,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 690,
+      "base": "T",
+      "importance": 0.021492887288331985,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 691,
+      "base": "T",
+      "importance": 0.03184361010789871,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 692,
+      "base": "A",
+      "importance": 0.05385137349367142,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 693,
+      "base": "A",
+      "importance": 0.05296866595745087,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 694,
+      "base": "A",
+      "importance": 0.047331154346466064,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 695,
+      "base": "T",
+      "importance": 0.03162940591573715,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 696,
+      "base": "C",
+      "importance": 0.04051641374826431,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 697,
+      "base": "A",
+      "importance": 0.10520453751087189,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 698,
+      "base": "A",
+      "importance": 0.14408819377422333,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 699,
+      "base": "A",
+      "importance": 0.13622164726257324,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 700,
+      "base": "A",
+      "importance": 0.11825399100780487,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 701,
+      "base": "A",
+      "importance": 0.1059223860502243,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 702,
+      "base": "A",
+      "importance": 0.07825212180614471,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 703,
+      "base": "A",
+      "importance": 0.09108662605285645,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 704,
+      "base": "A",
+      "importance": 0.10320653766393661,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 705,
+      "base": "A",
+      "importance": 0.10147851705551147,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 706,
+      "base": "A",
+      "importance": 0.071586474776268,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 707,
+      "base": "A",
+      "importance": 0.05944160372018814,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 708,
+      "base": "A",
+      "importance": 0.05930299311876297,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 709,
+      "base": "A",
+      "importance": 0.07611985504627228,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    },
+    {
+      "position": 710,
+      "base": "A",
+      "importance": 0.08641310036182404,
+      "importance_source": "direct_from_heterograph",
+      "is_modsite": false
+    }
+  ]
+}

@@ -1,0 +1,2167 @@
+{
+  "sequence_index": 230,
+  "rna_symbol": "GIHCG",
+  "sequence": "GGAGGAGTTACGCAGGCAGGGTTGTGGTTGCTGGCTGTTACCAGGACAACCGGAGGCGATTGACCGTTATCTGCGGTTTGGAGCCGTTAGCGGGAGAGGCAGAGATATTCAGAGGTCTTTTAGGATGCGCTAAAGGGTCGTGAGGGCTCTCTTAAAATTTTCTTCACAAGCGGTTATCCAGTCGTGCCCCGCGGCCCTGCTGCTGGCCCCGGGGATCTGAGTCGTACCCTCTTGTTTTTCTCTGAGTCAGTCTTAAGGTGAAATGAAGTGTGGCCCAGTGGCTCCTCACTGTCGCTTCTCTAGTTTTCTGCCTCCTTTTAGAAAATTGAATTGAAAAGACAGGATGAAGTGGACACAGCATGTGAAGACAATTCTTTCAAGAAGTTTGGCTGTCAAGGAAAACAGAGAATGTGCTAAAGAACATACAGACACAGAGCAGACAGGCCACCTTTGCAACCACATGGAGGTTTGTCTGATATTGAAGCTAAAGAAGCTAAGCTGGAAGACAGAGAGACCAAGTCCTGATGACATTGTTTGAACCCAGAGATCCAGACATGCCTGAAAACTAGTTTTACCACTGGACTTATCCGTTGAATGAGCCAATAAACTCTCTTTTATACTTAACCTTGGGTTTTACCTGGATTTTTGTCATTGACAGCTCAAAATATTCTAATATAGAAGTATACATCATTAAATCAAAAAAAAAAAAAA",
+  "sequence_length": 711,
+  "total_modsites": 13,
+  "total_structures": 101,
+  "coverage_statistics": {
+    "top_coverage_ratio": 0.8461538461538461,
+    "remaining_coverage_ratio": 0.15384615384615385,
+    "coverage_difference": 0.6923076923076923,
+    "top_n": 50
+  },
+  "all_structures": [
+    {
+      "rank": 1,
+      "structure_type": "stem",
+      "structure_index": 49,
+      "importance": 0.06046903505921364,
+      "base_count": 10,
+      "base_indices": [
+        667,
+        679,
+        668,
+        678,
+        669,
+        677,
+        670,
+        676,
+        671,
+        675
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 2,
+      "structure_type": "stem",
+      "structure_index": 47,
+      "importance": 0.04855261743068695,
+      "base_count": 8,
+      "base_indices": [
+        646,
+        656,
+        647,
+        655,
+        648,
+        654,
+        649,
+        653
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 3,
+      "structure_type": "stem",
+      "structure_index": 2,
+      "importance": 0.04424091428518295,
+      "base_count": 6,
+      "base_indices": [
+        49,
+        92,
+        50,
+        91,
+        51,
+        90
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 4,
+      "structure_type": "stem",
+      "structure_index": 39,
+      "importance": 0.044185884296894073,
+      "base_count": 6,
+      "base_indices": [
+        21,
+        551,
+        22,
+        550,
+        23,
+        549
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 5,
+      "structure_type": "stem",
+      "structure_index": 42,
+      "importance": 0.043944764882326126,
+      "base_count": 8,
+      "base_indices": [
+        4,
+        584,
+        5,
+        583,
+        6,
+        582,
+        7,
+        581
+      ],
+      "covered_modsites_count": 1,
+      "coverage_ratio": 0.07692307692307693,
+      "covered_modsite_indices": [
+        581
+      ]
+    },
+    {
+      "rank": 6,
+      "structure_type": "stem",
+      "structure_index": 1,
+      "importance": 0.04358353465795517,
+      "base_count": 6,
+      "base_indices": [
+        54,
+        84,
+        55,
+        83,
+        56,
+        82
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 7,
+      "structure_type": "stem",
+      "structure_index": 40,
+      "importance": 0.04347744584083557,
+      "base_count": 12,
+      "base_indices": [
+        12,
+        560,
+        13,
+        559,
+        14,
+        558,
+        15,
+        557,
+        16,
+        556,
+        17,
+        555
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 8,
+      "structure_type": "stem",
+      "structure_index": 36,
+      "importance": 0.042522914707660675,
+      "base_count": 10,
+      "base_indices": [
+        35,
+        529,
+        36,
+        528,
+        37,
+        527,
+        38,
+        526,
+        39,
+        525
+      ],
+      "covered_modsites_count": 1,
+      "coverage_ratio": 0.07692307692307693,
+      "covered_modsite_indices": [
+        527
+      ]
+    },
+    {
+      "rank": 9,
+      "structure_type": "stem",
+      "structure_index": 37,
+      "importance": 0.04218726232647896,
+      "base_count": 8,
+      "base_indices": [
+        30,
+        543,
+        31,
+        542,
+        32,
+        541,
+        33,
+        540
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 10,
+      "structure_type": "stem",
+      "structure_index": 35,
+      "importance": 0.042022787034511566,
+      "base_count": 12,
+      "base_indices": [
+        41,
+        523,
+        42,
+        522,
+        43,
+        521,
+        44,
+        520,
+        45,
+        519,
+        46,
+        518
+      ],
+      "covered_modsites_count": 1,
+      "coverage_ratio": 0.07692307692307693,
+      "covered_modsite_indices": [
+        45
+      ]
+    },
+    {
+      "rank": 11,
+      "structure_type": "stem",
+      "structure_index": 38,
+      "importance": 0.041579701006412506,
+      "base_count": 8,
+      "base_indices": [
+        25,
+        548,
+        26,
+        547,
+        27,
+        546,
+        28,
+        545
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 12,
+      "structure_type": "stem",
+      "structure_index": 48,
+      "importance": 0.04136724770069122,
+      "base_count": 10,
+      "base_indices": [
+        595,
+        661,
+        596,
+        660,
+        597,
+        659,
+        598,
+        658,
+        599,
+        657
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 13,
+      "structure_type": "stem",
+      "structure_index": 46,
+      "importance": 0.04135638847947121,
+      "base_count": 4,
+      "base_indices": [
+        624,
+        640,
+        625,
+        639
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 14,
+      "structure_type": "stem",
+      "structure_index": 43,
+      "importance": 0.041232720017433167,
+      "base_count": 6,
+      "base_indices": [
+        0,
+        588,
+        1,
+        587,
+        2,
+        586
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 15,
+      "structure_type": "stem",
+      "structure_index": 0,
+      "importance": 0.0381891205906868,
+      "base_count": 12,
+      "base_indices": [
+        61,
+        77,
+        62,
+        76,
+        63,
+        75,
+        64,
+        74,
+        65,
+        73,
+        66,
+        72
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 16,
+      "structure_type": "loop",
+      "structure_index": 0,
+      "importance": 0.03793711960315704,
+      "base_count": 48,
+      "base_indices": [
+        0,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        679,
+        680,
+        681,
+        682,
+        683,
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693,
+        694,
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        707,
+        708,
+        709,
+        710
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 17,
+      "structure_type": "loop",
+      "structure_index": 20,
+      "importance": 0.03774990886449814,
+      "base_count": 25,
+      "base_indices": [
+        181,
+        497,
+        182,
+        183,
+        184,
+        185,
+        186,
+        213,
+        214,
+        215,
+        434,
+        435,
+        436,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        494,
+        495,
+        496
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 18,
+      "structure_type": "loop",
+      "structure_index": 2,
+      "importance": 0.037063416093587875,
+      "base_count": 14,
+      "base_indices": [
+        7,
+        581,
+        8,
+        9,
+        10,
+        11,
+        12,
+        560,
+        561,
+        562,
+        563,
+        564,
+        565,
+        580
+      ],
+      "covered_modsites_count": 2,
+      "coverage_ratio": 0.15384615384615385,
+      "covered_modsite_indices": [
+        564,
+        581
+      ]
+    },
+    {
+      "rank": 19,
+      "structure_type": "loop",
+      "structure_index": 8,
+      "importance": 0.03687167167663574,
+      "base_count": 30,
+      "base_indices": [
+        46,
+        518,
+        47,
+        48,
+        49,
+        92,
+        93,
+        94,
+        95,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517
+      ],
+      "covered_modsites_count": 2,
+      "coverage_ratio": 0.15384615384615385,
+      "covered_modsite_indices": [
+        165,
+        513
+      ]
+    },
+    {
+      "rank": 20,
+      "structure_type": "loop",
+      "structure_index": 5,
+      "importance": 0.036655496805906296,
+      "base_count": 6,
+      "base_indices": [
+        28,
+        545,
+        29,
+        30,
+        543,
+        544
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 21,
+      "structure_type": "loop",
+      "structure_index": 45,
+      "importance": 0.035955287516117096,
+      "base_count": 21,
+      "base_indices": [
+        599,
+        657,
+        600,
+        601,
+        602,
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        656
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 22,
+      "structure_type": "loop",
+      "structure_index": 4,
+      "importance": 0.035897042602300644,
+      "base_count": 5,
+      "base_indices": [
+        23,
+        549,
+        24,
+        25,
+        548
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 23,
+      "structure_type": "loop",
+      "structure_index": 6,
+      "importance": 0.035850267857313156,
+      "base_count": 15,
+      "base_indices": [
+        33,
+        540,
+        34,
+        35,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539
+      ],
+      "covered_modsites_count": 1,
+      "coverage_ratio": 0.07692307692307693,
+      "covered_modsite_indices": [
+        538
+      ]
+    },
+    {
+      "rank": 24,
+      "structure_type": "loop",
+      "structure_index": 32,
+      "importance": 0.035193201154470444,
+      "base_count": 18,
+      "base_indices": [
+        270,
+        367,
+        271,
+        272,
+        281,
+        282,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        363,
+        364,
+        365,
+        366
+      ],
+      "covered_modsites_count": 1,
+      "coverage_ratio": 0.07692307692307693,
+      "covered_modsite_indices": [
+        352
+      ]
+    },
+    {
+      "rank": 25,
+      "structure_type": "loop",
+      "structure_index": 1,
+      "importance": 0.03499956429004669,
+      "base_count": 6,
+      "base_indices": [
+        2,
+        586,
+        3,
+        4,
+        584,
+        585
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 26,
+      "structure_type": "loop",
+      "structure_index": 50,
+      "importance": 0.03488258272409439,
+      "base_count": 5,
+      "base_indices": [
+        671,
+        675,
+        672,
+        673,
+        674
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 27,
+      "structure_type": "loop",
+      "structure_index": 43,
+      "importance": 0.03442654013633728,
+      "base_count": 7,
+      "base_indices": [
+        485,
+        491,
+        486,
+        487,
+        488,
+        489,
+        490
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 28,
+      "structure_type": "loop",
+      "structure_index": 3,
+      "importance": 0.034249499440193176,
+      "base_count": 10,
+      "base_indices": [
+        17,
+        555,
+        18,
+        19,
+        20,
+        21,
+        551,
+        552,
+        553,
+        554
+      ],
+      "covered_modsites_count": 1,
+      "coverage_ratio": 0.07692307692307693,
+      "covered_modsite_indices": [
+        552
+      ]
+    },
+    {
+      "rank": 29,
+      "structure_type": "loop",
+      "structure_index": 49,
+      "importance": 0.034049853682518005,
+      "base_count": 5,
+      "base_indices": [
+        649,
+        653,
+        650,
+        651,
+        652
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 30,
+      "structure_type": "loop",
+      "structure_index": 33,
+      "importance": 0.03375010937452316,
+      "base_count": 6,
+      "base_indices": [
+        274,
+        279,
+        275,
+        276,
+        277,
+        278
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 31,
+      "structure_type": "loop",
+      "structure_index": 44,
+      "importance": 0.0336688794195652,
+      "base_count": 8,
+      "base_indices": [
+        569,
+        576,
+        570,
+        571,
+        572,
+        573,
+        574,
+        575
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 32,
+      "structure_type": "loop",
+      "structure_index": 46,
+      "importance": 0.03320854529738426,
+      "base_count": 8,
+      "base_indices": [
+        606,
+        613,
+        607,
+        608,
+        609,
+        610,
+        611,
+        612
+      ],
+      "covered_modsites_count": 1,
+      "coverage_ratio": 0.07692307692307693,
+      "covered_modsite_indices": [
+        606
+      ]
+    },
+    {
+      "rank": 33,
+      "structure_type": "loop",
+      "structure_index": 39,
+      "importance": 0.03284340724349022,
+      "base_count": 5,
+      "base_indices": [
+        356,
+        360,
+        357,
+        358,
+        359
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 34,
+      "structure_type": "loop",
+      "structure_index": 11,
+      "importance": 0.032699521631002426,
+      "base_count": 7,
+      "base_indices": [
+        66,
+        72,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 35,
+      "structure_type": "loop",
+      "structure_index": 48,
+      "importance": 0.032634247094392776,
+      "base_count": 8,
+      "base_indices": [
+        629,
+        636,
+        630,
+        631,
+        632,
+        633,
+        634,
+        635
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 36,
+      "structure_type": "loop",
+      "structure_index": 18,
+      "importance": 0.031652551144361496,
+      "base_count": 8,
+      "base_indices": [
+        127,
+        134,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 37,
+      "structure_type": "loop",
+      "structure_index": 42,
+      "importance": 0.03140799701213837,
+      "base_count": 8,
+      "base_indices": [
+        452,
+        459,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458
+      ],
+      "covered_modsites_count": 1,
+      "coverage_ratio": 0.07692307692307693,
+      "covered_modsite_indices": [
+        458
+      ]
+    },
+    {
+      "rank": 38,
+      "structure_type": "loop",
+      "structure_index": 22,
+      "importance": 0.031407807022333145,
+      "base_count": 10,
+      "base_indices": [
+        195,
+        204,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 39,
+      "structure_type": "loop",
+      "structure_index": 38,
+      "importance": 0.03135687857866287,
+      "base_count": 10,
+      "base_indices": [
+        309,
+        318,
+        310,
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 40,
+      "structure_type": "loop",
+      "structure_index": 7,
+      "importance": 0.02957790344953537,
+      "base_count": 6,
+      "base_indices": [
+        39,
+        525,
+        40,
+        41,
+        523,
+        524
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 41,
+      "structure_type": "stem",
+      "structure_index": 45,
+      "importance": 0.028936585411429405,
+      "base_count": 4,
+      "base_indices": [
+        628,
+        637,
+        629,
+        636
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 42,
+      "structure_type": "stem",
+      "structure_index": 29,
+      "importance": 0.028399160131812096,
+      "base_count": 4,
+      "base_indices": [
+        451,
+        460,
+        452,
+        459
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 43,
+      "structure_type": "stem",
+      "structure_index": 7,
+      "importance": 0.028186991810798645,
+      "base_count": 4,
+      "base_indices": [
+        107,
+        154,
+        108,
+        153
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 44,
+      "structure_type": "stem",
+      "structure_index": 44,
+      "importance": 0.027834342792630196,
+      "base_count": 10,
+      "base_indices": [
+        602,
+        617,
+        603,
+        616,
+        604,
+        615,
+        605,
+        614,
+        606,
+        613
+      ],
+      "covered_modsites_count": 1,
+      "coverage_ratio": 0.07692307692307693,
+      "covered_modsite_indices": [
+        606
+      ]
+    },
+    {
+      "rank": 45,
+      "structure_type": "stem",
+      "structure_index": 30,
+      "importance": 0.026795055717229843,
+      "base_count": 4,
+      "base_indices": [
+        447,
+        463,
+        448,
+        462
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 46,
+      "structure_type": "stem",
+      "structure_index": 32,
+      "importance": 0.025656748563051224,
+      "base_count": 8,
+      "base_indices": [
+        482,
+        494,
+        483,
+        493,
+        484,
+        492,
+        485,
+        491
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 47,
+      "structure_type": "loop",
+      "structure_index": 13,
+      "importance": 0.025196293368935585,
+      "base_count": 6,
+      "base_indices": [
+        105,
+        156,
+        106,
+        107,
+        154,
+        155
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 48,
+      "structure_type": "stem",
+      "structure_index": 12,
+      "importance": 0.024829622358083725,
+      "base_count": 6,
+      "base_indices": [
+        272,
+        281,
+        273,
+        280,
+        274,
+        279
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 49,
+      "structure_type": "loop",
+      "structure_index": 19,
+      "importance": 0.024309344589710236,
+      "base_count": 6,
+      "base_indices": [
+        174,
+        504,
+        175,
+        176,
+        502,
+        503
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 50,
+      "structure_type": "stem",
+      "structure_index": 10,
+      "importance": 0.023334432393312454,
+      "base_count": 8,
+      "base_indices": [
+        192,
+        207,
+        193,
+        206,
+        194,
+        205,
+        195,
+        204
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 51,
+      "structure_type": "stem",
+      "structure_index": 41,
+      "importance": 0.023114724084734917,
+      "base_count": 10,
+      "base_indices": [
+        565,
+        580,
+        566,
+        579,
+        567,
+        578,
+        568,
+        577,
+        569,
+        576
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 52,
+      "structure_type": "stem",
+      "structure_index": 27,
+      "importance": 0.02310400828719139,
+      "base_count": 6,
+      "base_indices": [
+        220,
+        429,
+        221,
+        428,
+        222,
+        427
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 53,
+      "structure_type": "loop",
+      "structure_index": 14,
+      "importance": 0.023040931671857834,
+      "base_count": 6,
+      "base_indices": [
+        108,
+        153,
+        109,
+        110,
+        151,
+        152
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 54,
+      "structure_type": "stem",
+      "structure_index": 31,
+      "importance": 0.022856809198856354,
+      "base_count": 20,
+      "base_indices": [
+        436,
+        474,
+        437,
+        473,
+        438,
+        472,
+        439,
+        471,
+        440,
+        470,
+        441,
+        469,
+        442,
+        468,
+        443,
+        467,
+        444,
+        466,
+        445,
+        465
+      ],
+      "covered_modsites_count": 1,
+      "coverage_ratio": 0.07692307692307693,
+      "covered_modsite_indices": [
+        439
+      ]
+    },
+    {
+      "rank": 55,
+      "structure_type": "stem",
+      "structure_index": 33,
+      "importance": 0.022263091057538986,
+      "base_count": 12,
+      "base_indices": [
+        176,
+        502,
+        177,
+        501,
+        178,
+        500,
+        179,
+        499,
+        180,
+        498,
+        181,
+        497
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 56,
+      "structure_type": "stem",
+      "structure_index": 34,
+      "importance": 0.02222185954451561,
+      "base_count": 6,
+      "base_indices": [
+        172,
+        506,
+        173,
+        505,
+        174,
+        504
+      ],
+      "covered_modsites_count": 1,
+      "coverage_ratio": 0.07692307692307693,
+      "covered_modsite_indices": [
+        505
+      ]
+    },
+    {
+      "rank": 57,
+      "structure_type": "loop",
+      "structure_index": 10,
+      "importance": 0.022094745188951492,
+      "base_count": 12,
+      "base_indices": [
+        56,
+        82,
+        57,
+        58,
+        59,
+        60,
+        61,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 58,
+      "structure_type": "loop",
+      "structure_index": 25,
+      "importance": 0.021881580352783203,
+      "base_count": 8,
+      "base_indices": [
+        226,
+        410,
+        227,
+        228,
+        406,
+        407,
+        408,
+        409
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 59,
+      "structure_type": "loop",
+      "structure_index": 24,
+      "importance": 0.021774858236312866,
+      "base_count": 17,
+      "base_indices": [
+        222,
+        427,
+        223,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 60,
+      "structure_type": "loop",
+      "structure_index": 15,
+      "importance": 0.02177216112613678,
+      "base_count": 6,
+      "base_indices": [
+        114,
+        147,
+        115,
+        116,
+        145,
+        146
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 61,
+      "structure_type": "loop",
+      "structure_index": 16,
+      "importance": 0.021715085953474045,
+      "base_count": 6,
+      "base_indices": [
+        121,
+        140,
+        122,
+        123,
+        138,
+        139
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 62,
+      "structure_type": "stem",
+      "structure_index": 13,
+      "importance": 0.021693700924515724,
+      "base_count": 20,
+      "base_indices": [
+        300,
+        327,
+        301,
+        326,
+        302,
+        325,
+        303,
+        324,
+        304,
+        323,
+        305,
+        322,
+        306,
+        321,
+        307,
+        320,
+        308,
+        319,
+        309,
+        318
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 63,
+      "structure_type": "stem",
+      "structure_index": 17,
+      "importance": 0.02143039181828499,
+      "base_count": 4,
+      "base_indices": [
+        282,
+        346,
+        283,
+        345
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 64,
+      "structure_type": "loop",
+      "structure_index": 26,
+      "importance": 0.021251797676086426,
+      "base_count": 5,
+      "base_indices": [
+        230,
+        404,
+        231,
+        232,
+        403
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 65,
+      "structure_type": "stem",
+      "structure_index": 11,
+      "importance": 0.02120085619390011,
+      "base_count": 10,
+      "base_indices": [
+        186,
+        213,
+        187,
+        212,
+        188,
+        211,
+        189,
+        210,
+        190,
+        209
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 66,
+      "structure_type": "loop",
+      "structure_index": 29,
+      "importance": 0.020985949784517288,
+      "base_count": 10,
+      "base_indices": [
+        253,
+        381,
+        254,
+        255,
+        256,
+        257,
+        258,
+        378,
+        379,
+        380
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 67,
+      "structure_type": "loop",
+      "structure_index": 37,
+      "importance": 0.020958302542567253,
+      "base_count": 10,
+      "base_indices": [
+        297,
+        332,
+        298,
+        299,
+        300,
+        327,
+        328,
+        329,
+        330,
+        331
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 68,
+      "structure_type": "loop",
+      "structure_index": 28,
+      "importance": 0.02092837169766426,
+      "base_count": 6,
+      "base_indices": [
+        249,
+        385,
+        250,
+        251,
+        383,
+        384
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 69,
+      "structure_type": "loop",
+      "structure_index": 30,
+      "importance": 0.020818036049604416,
+      "base_count": 5,
+      "base_indices": [
+        262,
+        374,
+        263,
+        264,
+        373
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 70,
+      "structure_type": "stem",
+      "structure_index": 8,
+      "importance": 0.02079378068447113,
+      "base_count": 10,
+      "base_indices": [
+        101,
+        160,
+        102,
+        159,
+        103,
+        158,
+        104,
+        157,
+        105,
+        156
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 71,
+      "structure_type": "stem",
+      "structure_index": 28,
+      "importance": 0.020734187215566635,
+      "base_count": 8,
+      "base_indices": [
+        215,
+        434,
+        216,
+        433,
+        217,
+        432,
+        218,
+        431
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 72,
+      "structure_type": "loop",
+      "structure_index": 27,
+      "importance": 0.020586632192134857,
+      "base_count": 11,
+      "base_indices": [
+        240,
+        395,
+        241,
+        242,
+        243,
+        244,
+        390,
+        391,
+        392,
+        393,
+        394
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 73,
+      "structure_type": "stem",
+      "structure_index": 14,
+      "importance": 0.02057250216603279,
+      "base_count": 6,
+      "base_indices": [
+        295,
+        334,
+        296,
+        333,
+        297,
+        332
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 74,
+      "structure_type": "loop",
+      "structure_index": 36,
+      "importance": 0.02037055417895317,
+      "base_count": 8,
+      "base_indices": [
+        292,
+        337,
+        293,
+        294,
+        295,
+        334,
+        335,
+        336
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 75,
+      "structure_type": "loop",
+      "structure_index": 17,
+      "importance": 0.02028593420982361,
+      "base_count": 6,
+      "base_indices": [
+        125,
+        136,
+        126,
+        127,
+        134,
+        135
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 76,
+      "structure_type": "stem",
+      "structure_index": 24,
+      "importance": 0.020108606666326523,
+      "base_count": 18,
+      "base_indices": [
+        232,
+        403,
+        233,
+        402,
+        234,
+        401,
+        235,
+        400,
+        236,
+        399,
+        237,
+        398,
+        238,
+        397,
+        239,
+        396,
+        240,
+        395
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 77,
+      "structure_type": "stem",
+      "structure_index": 16,
+      "importance": 0.020006408914923668,
+      "base_count": 4,
+      "base_indices": [
+        285,
+        343,
+        286,
+        342
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 78,
+      "structure_type": "stem",
+      "structure_index": 21,
+      "importance": 0.0199704859405756,
+      "base_count": 10,
+      "base_indices": [
+        258,
+        378,
+        259,
+        377,
+        260,
+        376,
+        261,
+        375,
+        262,
+        374
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 79,
+      "structure_type": "loop",
+      "structure_index": 23,
+      "importance": 0.019960615783929825,
+      "base_count": 6,
+      "base_indices": [
+        218,
+        431,
+        219,
+        220,
+        429,
+        430
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 80,
+      "structure_type": "stem",
+      "structure_index": 3,
+      "importance": 0.019892511889338493,
+      "base_count": 2,
+      "base_indices": [
+        127,
+        134
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 81,
+      "structure_type": "stem",
+      "structure_index": 6,
+      "importance": 0.019787130877375603,
+      "base_count": 10,
+      "base_indices": [
+        110,
+        151,
+        111,
+        150,
+        112,
+        149,
+        113,
+        148,
+        114,
+        147
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 82,
+      "structure_type": "loop",
+      "structure_index": 35,
+      "importance": 0.01962265744805336,
+      "base_count": 5,
+      "base_indices": [
+        286,
+        342,
+        287,
+        288,
+        341
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 83,
+      "structure_type": "loop",
+      "structure_index": 9,
+      "importance": 0.019612614065408707,
+      "base_count": 11,
+      "base_indices": [
+        51,
+        90,
+        52,
+        53,
+        54,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 84,
+      "structure_type": "stem",
+      "structure_index": 22,
+      "importance": 0.0195908360183239,
+      "base_count": 6,
+      "base_indices": [
+        251,
+        383,
+        252,
+        382,
+        253,
+        381
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 85,
+      "structure_type": "loop",
+      "structure_index": 47,
+      "importance": 0.019575586542487144,
+      "base_count": 7,
+      "base_indices": [
+        625,
+        639,
+        626,
+        627,
+        628,
+        637,
+        638
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 86,
+      "structure_type": "loop",
+      "structure_index": 12,
+      "importance": 0.01938970386981964,
+      "base_count": 6,
+      "base_indices": [
+        98,
+        161,
+        99,
+        100,
+        101,
+        160
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 87,
+      "structure_type": "loop",
+      "structure_index": 40,
+      "importance": 0.019368834793567657,
+      "base_count": 6,
+      "base_indices": [
+        445,
+        465,
+        446,
+        447,
+        463,
+        464
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 88,
+      "structure_type": "loop",
+      "structure_index": 34,
+      "importance": 0.019340410828590393,
+      "base_count": 6,
+      "base_indices": [
+        283,
+        345,
+        284,
+        285,
+        343,
+        344
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 89,
+      "structure_type": "loop",
+      "structure_index": 31,
+      "importance": 0.019319526851177216,
+      "base_count": 6,
+      "base_indices": [
+        266,
+        371,
+        267,
+        268,
+        369,
+        370
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 90,
+      "structure_type": "loop",
+      "structure_index": 21,
+      "importance": 0.019150901585817337,
+      "base_count": 6,
+      "base_indices": [
+        190,
+        209,
+        191,
+        192,
+        207,
+        208
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 91,
+      "structure_type": "stem",
+      "structure_index": 15,
+      "importance": 0.019136007875204086,
+      "base_count": 10,
+      "base_indices": [
+        288,
+        341,
+        289,
+        340,
+        290,
+        339,
+        291,
+        338,
+        292,
+        337
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 92,
+      "structure_type": "stem",
+      "structure_index": 25,
+      "importance": 0.019062552601099014,
+      "base_count": 6,
+      "base_indices": [
+        228,
+        406,
+        229,
+        405,
+        230,
+        404
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 93,
+      "structure_type": "stem",
+      "structure_index": 20,
+      "importance": 0.018663056194782257,
+      "base_count": 6,
+      "base_indices": [
+        264,
+        373,
+        265,
+        372,
+        266,
+        371
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 94,
+      "structure_type": "stem",
+      "structure_index": 26,
+      "importance": 0.01861388608813286,
+      "base_count": 8,
+      "base_indices": [
+        223,
+        413,
+        224,
+        412,
+        225,
+        411,
+        226,
+        410
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 95,
+      "structure_type": "stem",
+      "structure_index": 19,
+      "importance": 0.018483377993106842,
+      "base_count": 6,
+      "base_indices": [
+        268,
+        369,
+        269,
+        368,
+        270,
+        367
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 96,
+      "structure_type": "stem",
+      "structure_index": 4,
+      "importance": 0.018374869599938393,
+      "base_count": 6,
+      "base_indices": [
+        123,
+        138,
+        124,
+        137,
+        125,
+        136
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 97,
+      "structure_type": "stem",
+      "structure_index": 18,
+      "importance": 0.01798897609114647,
+      "base_count": 8,
+      "base_indices": [
+        353,
+        363,
+        354,
+        362,
+        355,
+        361,
+        356,
+        360
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 98,
+      "structure_type": "stem",
+      "structure_index": 23,
+      "importance": 0.017820002511143684,
+      "base_count": 12,
+      "base_indices": [
+        244,
+        390,
+        245,
+        389,
+        246,
+        388,
+        247,
+        387,
+        248,
+        386,
+        249,
+        385
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 99,
+      "structure_type": "stem",
+      "structure_index": 5,
+      "importance": 0.017737241461873055,
+      "base_count": 12,
+      "base_indices": [
+        116,
+        145,
+        117,
+        144,
+        118,
+        143,
+        119,
+        142,
+        120,
+        141,
+        121,
+        140
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 100,
+      "structure_type": "stem",
+      "structure_index": 9,
+      "importance": 0.017735963687300682,
+      "base_count": 8,
+      "base_indices": [
+        95,
+        164,
+        96,
+        163,
+        97,
+        162,
+        98,
+        161
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    },
+    {
+      "rank": 101,
+      "structure_type": "loop",
+      "structure_index": 41,
+      "importance": 0.01748242974281311,
+      "base_count": 7,
+      "base_indices": [
+        448,
+        462,
+        449,
+        450,
+        451,
+        460,
+        461
+      ],
+      "covered_modsites_count": 0,
+      "coverage_ratio": 0.0,
+      "covered_modsite_indices": []
+    }
+  ]
+}
