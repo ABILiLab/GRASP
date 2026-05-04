@@ -60,7 +60,6 @@ def kmerArray(sequence, k):
     return kmer
 
 def Kmer(fastas, k=2, type="DNA", upto=False, normalize=True, **kw):
-    # encoding = []
     fastas = read_nucleotide_sequences(fastas)
     encoding = {}
     header = ['#', 'label']
@@ -76,7 +75,6 @@ def Kmer(fastas, k=2, type="DNA", upto=False, normalize=True, **kw):
         for tmpK in range(1, k + 1):
             for kmer in itertools.product(NA, repeat=tmpK):
                 header.append(''.join(kmer))
-        # encoding.append(header)
         for i in fastas:
             seq_key=i[1]
             name, sequence, label = i[0], re.sub('-', '', i[1]), i[2]
@@ -88,7 +86,6 @@ def Kmer(fastas, k=2, type="DNA", upto=False, normalize=True, **kw):
                     for key in count:
                         if len(key) == tmpK:
                             count[key] = count[key] / len(kmers)
-            # code = [name, label]
             code=[]
             for j in range(2, len(header)):
                 if header[j] in count:
@@ -96,11 +93,9 @@ def Kmer(fastas, k=2, type="DNA", upto=False, normalize=True, **kw):
                 else:
                     code.append(0)
             encoding[seq_key]=code
-            # encoding.append(code)
     else:
         for kmer in itertools.product(NA, repeat=k):
             header.append(''.join(kmer))
-        # encoding.append(header)
         for i in fastas:
             seq_key=i[1]
             name, sequence, label = i[0], re.sub('-', '', i[1]), i[2]
@@ -110,14 +105,12 @@ def Kmer(fastas, k=2, type="DNA", upto=False, normalize=True, **kw):
             if normalize == True:
                 for key in count:
                     count[key] = count[key] / len(kmers)
-            # code = [name, label]
             code = []
             for j in range(2, len(header)):
                 if header[j] in count:
                     code.append(count[header[j]])
                 else:
                     code.append(0)
-            # encoding.append(code)
             encoding[seq_key]=code
     return encoding
 
@@ -139,10 +132,6 @@ def linear_fold(sequences, ids, out_fasta_name):
         os.system("cat " + "clean_tmp.dot" + " >> " + out_fasta_name + ".fasta") 
 
 def compute_DACC(fasta_path, lag=2, seq_type='RNA', ilearn_base_dir=None):
-    """
-    Compute DACC (autocorrelation) encoding for sequences using iLearn; returns dict[sequence -> feature vector].
-    By default uses DACC files under this repo's reference/ilearn.
-    """
     if ilearn_base_dir is None:
         _cur_dir = os.path.dirname(os.path.abspath(__file__))
         ilearn_base_dir = os.path.join(_cur_dir, 'reference', 'ilearn')
