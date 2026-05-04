@@ -305,11 +305,11 @@ def build_R_from_Y(Y, min_cooccur=5, pval_thresh=0.05, tau=0.0, beta=1.0, prior=
         M = beta * M + (1-beta) * prior
 
     M = M / (M.sum() + 1e-12)  # normalize
-    # k = 2  # sparsify: keep only top-k strong correlations
-    # for i in range(M.shape[0]):
-    #     idx = np.argsort(M[i])[:-k]  # exclude top-k
-    #     M[i, idx] = 0
-    return M  # this is R
+    k = 3  
+    for i in range(M.shape[0]):
+        idx = np.argsort(M[i])[:-k]
+        M[i, idx] = 0
+    return M  
 
 import torch
 import torch.nn.functional as F
