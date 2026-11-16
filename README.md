@@ -43,6 +43,10 @@ For **CPU-only** PyTorch, use the `+cpu` wheel index instead (e.g. `torch-2.0.0+
 
 All tools needed for feature extraction are under **`reference/`**.
 
+### Data availability
+
+The lncRNA benchmark data are included under `data/`. Due to file size limits, the mRNA dataset and related features are provided via Google Drive: https://drive.google.com/drive/folders/1jX_rqWH_xZqDP7ZLNiVEi1nII5tIr7Iw?usp=drive_link.
+
 ### Quick Start
 
 After cloning or entering the project directory, use `run_train.py` for training and `run_predict.py` for prediction. Training is split by RNA type (lncRNA / mRNA) for separate models and checkpoints.
